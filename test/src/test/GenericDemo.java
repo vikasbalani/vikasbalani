@@ -22,6 +22,8 @@ public static <E> void printArr(E[] elem) {
 		
 		for (E elems :elem) {
 			System.out.println(elems);
+			
+			
 		}
 		
 		
