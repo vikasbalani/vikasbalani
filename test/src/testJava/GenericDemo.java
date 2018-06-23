@@ -55,7 +55,7 @@ printArr( intArray  );
 System.out.println( "Printing Character Array" );  
 printArr( charArray );   
 
-
+System.out.println();
 	}
 
 }
